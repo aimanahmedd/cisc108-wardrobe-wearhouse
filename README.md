@@ -17,10 +17,6 @@ I got help from my professor Nazim who guided me through ways to resolve my bugs
 ## Website Link
 [This is my website link!](https://ud-f24-cs1.github.io/cs1-website-f24-aimanahmedd/)
 
-## Planning Documents
-
-![This is an image to my planning document](ciscplan.jpeg)
-
 ## Video URL
 
 [This is my video link!](https://drive.google.com/file/d/1eEGwWo-azqZu5R2v0s-DKobZNON4cWSt/view?usp=sharing)
